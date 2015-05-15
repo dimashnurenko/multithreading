@@ -6,7 +6,7 @@ import java.util.List;
 import java.util.concurrent.*;
 
 /**
- * @author Shnurenko Dmitry
+ * @author Dmitry Shnurenko
  */
 public class MyFuture implements Callable<String> {
     @Override
